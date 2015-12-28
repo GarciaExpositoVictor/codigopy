@@ -3,22 +3,22 @@ En este repositorio podrás encontrar mi código que he escrito en mi aprendizaj
 ###### El contenido de esta carpeta es el código que he producido en clase.
 El contenido de los ejercicios es:
 
-1. Simple operations
-2. Floats
--Strings
--Simple Input & Output
--Type Conversion
--Variables
--Booleans & Comparasions
--If Statements
--Else Statements
--Boolean Logic
--Operator Precedence
--While Loops
--Lists
--Lists Opetations
--Range
--For Loops
+- Simple operations
+- Floats
+- Strings
+- Simple Input & Output
+- Type Conversion
+- Variables
+- Booleans & Comparasions
+- If Statements
+- Else Statements
+- Boolean Logic
+- Operator Precedence
+- While Loops
+- Lists
+- Lists Opetations
+- Range
+- For Loops
 
 Los recursos que he usado durante el curso son:
 
