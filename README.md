@@ -3,8 +3,8 @@ En este repositorio podrás encontrar mi código que he escrito en mi aprendizaj
 ###### El contenido de esta carpeta es el código que he producido en clase.
 El contenido de los ejercicios es:
 
--Simple operations
--Floats
+1. Simple operations
+2. Floats
 -Strings
 -Simple Input & Output
 -Type Conversion
