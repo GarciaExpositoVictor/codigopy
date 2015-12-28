@@ -22,7 +22,7 @@ El contenido de los ejercicios es:
 
 Los recursos que he usado durante el curso son:
 
-Libro Code complete de Steven C. McConnell
-Libro Clean code, Robert C. Martin Series de la editorial Prentice Halls
-Libro Learning Python 5th edition de la editorial O'reilly
-Libro The agile samurai de Jonathan Rasmusson
+- Libro Code complete de Steven C. McConnell
+- Libro Clean code, Robert C. Martin Series de la editorial Prentice Halls
+- Libro Learning Python 5th edition de la editorial O'reilly
+- Libro The agile samurai de Jonathan Rasmusson
