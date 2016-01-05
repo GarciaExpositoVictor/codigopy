@@ -1,11 +1,9 @@
 #~Programa que representa una tarjeta prepago de un teléfono con la cual podemos enviar mensajes, llamar e ingresar saldo
 #~Importamos estos módulos para poder heredar sus métodos
-from dni import *
-from Hora import * 
 
 #~Clase
 
-class TarjetaPrepago ():
+class TarjetaPrepago (DNI, Hora):
 
 	hora.__init__
 	dni.__init__
