@@ -4,9 +4,7 @@
 """Programa que representa una Cuenta Corriente que nos permite almacenar los datos asociados a la cuenta bancaria
 de un cliente e interactuar con ellos."""
 
-from dni import *
-
-class CuentaCorriente:
+class CuentaCorriente(DNI):
 
 #~Bloques constructores
 
