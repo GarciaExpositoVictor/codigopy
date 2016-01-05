@@ -53,13 +53,15 @@ class TarjetaPrepago ():
 		return consumo
 
 #Funciones del programa
-	
+
+"""Esta función recibe como dato un numero e incrementa el saldo en la cantidad deseada"""
 	def ingresarSaldo (self, ingresoSaldo):
 
 		saldoActualizado = self.saldo() + ingresoSaldo
 		self.getSaldo(dineroActualizado)
 		return (ingresoSaldo, saldoActualizado)
-
+		
+"""Esta función reduce nuestro saldo en función de los mensajes que deseemos enviar"""
 	def enviarMensaje (self, cantidadMensajes, precioMensaje):
 
 		while self.saldo() >= 0:
@@ -68,7 +70,8 @@ class TarjetaPrepago ():
 			return (consumo, cantidadMensajes)
 		else:
 			print ("Tu saldo es insuficiente para realizar el mensaje")
-
+			
+"""Esta función reduce nuestro saldo en función de la duración de la llamada, su coste y el establecimiento de llamada"""
 	def realizarLlamada (self, establecimientoLlamada, duracionLlamada, tarifaLlamada):
 
 		while saldo >= 0:
@@ -78,13 +81,15 @@ class TarjetaPrepago ():
 
 		else:
 			print ("Saldo insuficiente para realizar la llamada")
-
+			
+"""Esta función nos permite ver los datos relacionados a la tarjeta"""
 	def consultarTarjeta (self):
 
 		print ("Su numero es: ", self.numeroTelefono)
 		print ("Su NIF es: ", self.NIF)
 		print ("Su saldo es: ", self.saldo)
-
+		
+"""Esta función nos permite cambiar la duración de la llamada a segundos para así poder calcular su coste"""
 	def cambiaraSegundos (self):
 
 		segundos = (self.horas * 3600) + (self.minutos * 60) + self.segundos
