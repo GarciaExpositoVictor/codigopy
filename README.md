@@ -3,6 +3,8 @@ En este repositorio podrás encontrar el código que he escrito en mi aprendizaj
 ###### El contenido de esta carpeta es el código que he producido en clase.
 El contenido de los ejercicios es:
 
+####Structural programming
+
 - Simple operations
 - Floats
 - Strings
@@ -19,6 +21,15 @@ El contenido de los ejercicios es:
 - Lists Opetations
 - Range
 - For Loops
+
+###Object-Oriented Programming
+
+- Polimorphysm
+- Inheritance
+- Encapsulation
+- Deffensive programming
+- SOLID Principles
+
 
 Los recursos que he usado durante el curso son:
 
