@@ -29,6 +29,7 @@ El contenido de los ejercicios es:
 - Encapsulation
 - Deffensive programming
 - SOLID Principles
+- Abstraction
 
 
 Los recursos que he usado durante el curso son:
